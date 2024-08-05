@@ -30,7 +30,7 @@ _**FROM_DAYS**	Returns a date from a numeric datevalue<BR>
 **LAST_DAY**	Extracts the last day of the month for a given date<BR>
 **LOCALTIME**	Returns the current date and time<BR>
 **LOCALTIMESTAMP**	Returns the current date and time<BR>
-**MAKEDATE**	Creates and returns a date based on a year and a number of days value<BR><BR
+**MAKEDATE**	Creates and returns a date based on a year and a number of days value<BR>
 **MAKETIME**	Creates and returns a time based on an hour, minute, and second value<BR>
 **MICROSECOND**	Returns the microsecond part of a time/datetime<BR>
 **MINUTE**	Returns the minute part of a time/datetime<BR>
